@@ -1,2 +1,2 @@
 # Browser-Automation
-Using Playwright to automate browser actions
+Using Playwright and Selenium to automate browser actions
